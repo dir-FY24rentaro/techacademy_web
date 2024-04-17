@@ -1,0 +1,23 @@
+#important{
+	color : red;
+}
+
+.important{
+	color:blue;
+}
+
+div article p{
+	color:green;
+}
+
+a:link{
+	color:#0000ff;
+}
+
+a:hover{
+	color:#ff0000;
+}
+
+a:visited{
+	color:#999999;
+}

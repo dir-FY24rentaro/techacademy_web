@@ -1,0 +1,41 @@
+.box{
+	margin:50px;
+	border:5px solid #00ddff;
+	padding:100px 50px 100px 50px;
+	width:500px;
+	height: 500px;
+	background-color:skyblue;
+}
+
+.box-inner{
+	margin:50px;
+	border:10px solid red;
+	padding:10px;
+	width:100px;
+	height:100px;
+	background-color:#dddddd;
+}
+
+.p{
+	color:red;
+}
+
+.r{
+	background-color:pink;
+}
+
+.g{
+	background-color:palegreen;
+}
+
+.b{
+	background-color:blue;
+}
+
+div.r{
+	display:inline;
+}
+
+div.g{
+	display:inline;
+}
